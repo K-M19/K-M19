@@ -8,7 +8,5 @@ But sometimes I do release open-source or closed-source projects, and share some
 
 And every now and then, I also join both small and big projects — quietly helping out behind the scenes, like a shadow in a hoodie. :shipit:
 
-Here is my LICENSE and terms you should read it before using or exploring my archive: [LICENSE](https://github.com/K-M19/CUSTOM-LICENSE/blob/main/README.md)
-
 📩Contact & Support: Butaaa.inbox@gmail.com                     
 ---
